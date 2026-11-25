@@ -3,7 +3,7 @@
     <name>Hazard 7007</name>
     <description>Контроллер спецсигналов</description>
     <author>BORZ</author>
-    <icon src="icon.svg" />
+    <icon src="icon.png" />
     <content src="index.html" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
